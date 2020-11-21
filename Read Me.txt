@@ -1,0 +1,44 @@
+ Name: Jino James
+ College:Union Christian College 
+
+ !!please follow these instructions for the best result
+
+ 1)open the website for kerala tourism in Visual Studio Code.
+ 
+ 2)Make sure you are connected to internet.
+
+ 3)For selecting district please use the drop down menu "Select District"
+   on top right corner.
+ 
+ 4)Please use the "Click for attractive packages" button for packages information.
+ 
+ !!How to load website in Visual Studio Code
+ ( you can use your own ways but if any error occurs please 
+  open the website using live server)
+ 
+ 1)Extract the compressed RAR "website for kerala tourism".
+ 
+ 2)Open Visual Studio Code.
+
+ 3)Go to File->Open Folder.
+ 
+ 4)Select the extracted "website for kerala tourism" folder
+   and click select folder.
+
+ 5)Rightclick index.html and select Open With Live server.  
+ 
+ Limited liability
+ However the information contained in this website is composed with accuracy, 
+ the owner will not be liable for inaccuracies of the content.
+
+ Through this website you are able to link to other websites or we refer to other websites 
+ which are not under the responsibility of ours.
+
+ Copyright
+ All rights reserved. No parts of the content of this website may be reproduced or  distributed in public,
+ without the prior written permission of the publisher.All images are copyright to their respective owners 
+ and are protected under international copyright laws and are protected under international copyright laws.
+ Without prior written permission it is not permitted to copy, download, or reproduce these images in any
+ way whatsoever.
+
+ 

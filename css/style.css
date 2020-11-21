@@ -1,0 +1,201 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    
+    background-image: linear-gradient(315deg, #63d471 0%, #233329 74%);
+    
+  }
+.nav-link
+{color: white;
+}
+
+.carousel-inner
+{margin-top:3% ;}
+
+.container
+{margin-top: 10%;
+}
+.container
+{
+    color: white;
+   
+}
+
+.headeredit a
+{
+    
+    float: right;
+   padding-left: 50px; 
+   margin-left: 60px;
+}
+.dropdown
+{
+       
+    float: right;
+    padding-left: 179px; 
+      margin-left: 140px;
+}
+
+.carousel-item
+{
+    width: 640px;
+    height: 500px;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    height: 2.5em;
+    margin-top: 17%;
+    padding-top: em;
+    text-align: center;
+}
+.card-group
+{
+    
+   position: absolute;
+   top: 11.5%;
+   left: 66%;
+        width: 320px;
+        height: 500px;
+        
+    
+}
+.btn-info
+{
+    position: absolute;
+    left: 22%;
+}
+ .loginf
+{
+    background-color: black;
+    color: white;
+    height: 2.5em;
+    margin-top: 27%;
+    text-align: center;
+
+} 
+.content
+{
+    color: white ;
+  text-align: center;
+padding: 10px;
+height:75% ;
+}
+.aboutus
+{
+    background-color: black;
+    color: white;
+    height: 2.5em;
+    margin-top: 27%;
+    text-align: center;
+
+}
+.image
+{
+    margin-top: 6em;
+  
+}
+
+.btn-primary
+{
+    position: absolute;
+    left: 45%;
+}
+
+.carousel2
+{
+  
+ 
+     position: relative;
+    left: 15%;
+   
+   
+}
+p
+{
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.alap
+{
+    background-color: black;
+    color: white;
+    height: 2.5em;
+    margin-top: 10%;
+    text-align: center;
+}
+/* Style all input fields */
+input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+  
+  /* Style the submit button */
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Style the container for inputs */
+  .container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    color: #000;
+  }
+  
+  /* The message box is shown when the user clicks on the password field */
+  #message {
+    display:none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+  }
+  
+  #message p {
+    padding: 10px 35px;
+    font-size: 18px;
+  }
+  
+  /* Add a green text color and a checkmark when the requirements are right */
+  .valid {
+    color: green;
+  }
+  
+  .valid:before {
+    position: relative;
+    left: -35px;
+    content: "&#10004;";
+  }
+  
+  /* Add a red text color and an "x" icon when the requirements are wrong */
+  .invalid {
+    color: red;
+  }
+  
+  .invalid:before {
+    position: relative;
+    left: -35px;
+    content: "&#10006;";
+  }
+  .error
+{
+  color: red;
+  size: 80%
+}
+.hidden
+{
+  display:none;
+}
+
+  
